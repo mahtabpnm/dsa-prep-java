@@ -1,4 +1,4 @@
-# Problem 01 — Maximum Profit (Toyota Car Resale)
+# Problem 01 — Maximum Profit
 
 ## Problem Statement
 
